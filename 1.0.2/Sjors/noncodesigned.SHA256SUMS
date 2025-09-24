@@ -1,0 +1,15 @@
+976e8ea705577381abb33cef5edcf38b2bc4d3ff31ff3a17f849a315759326c3  sv2-tp-1.0.2-aarch64-linux-gnu-debug.tar.gz
+3c123c2053dde44896679fdb916b50817a7c1956c286cbce0088d7c12ef75790  sv2-tp-1.0.2-aarch64-linux-gnu.tar.gz
+3871d6fdf97382eb7f1fc23b10e13264bf97f111658d34d6e1839e358e41f77a  sv2-tp-1.0.2-arm-linux-gnueabihf-debug.tar.gz
+8ff6872dca06019cd2e15a3fb1a67f860151543d77a638887c676181788453cf  sv2-tp-1.0.2-arm-linux-gnueabihf.tar.gz
+b6541172f87cd285e2ab029fbededf825a6f9edff8753d9465d8365ac3d15022  sv2-tp-1.0.2-arm64-apple-darwin-codesigning.tar.gz
+76c7b61a5c505463205584d32c8f15c46edd2cd3779dc840d244fef344f275c5  sv2-tp-1.0.2-arm64-apple-darwin-unsigned.tar.gz
+ba47fe72827c663b6109c6dbfd4de73516f3f856e2f9b322be4009d99f51c995  sv2-tp-1.0.2.tar.gz
+6c68e542c9b30bda48e0fe5cc09f7a4269eec8b672bb59d8751093989b555613  sv2-tp-1.0.2-powerpc64-linux-gnu-debug.tar.gz
+bfe0aa7b5e7d5a3462793b712c6f2616712d558728a822a99e05eb6feee0fc17  sv2-tp-1.0.2-powerpc64-linux-gnu.tar.gz
+1e2ebc424c3cc02825a70fea98568df51f0b6eb3f15708b721d61d3d9cf93a2f  sv2-tp-1.0.2-riscv64-linux-gnu-debug.tar.gz
+ac21197ac906f4e9ef50ea34b3b64b2f6170cfc46716abb0c6ab325865f6812d  sv2-tp-1.0.2-riscv64-linux-gnu.tar.gz
+2e121a97af08a11ea694a227a58b4e0101b1bebb484dda0691106a55cf4ee6cf  sv2-tp-1.0.2-x86_64-apple-darwin-codesigning.tar.gz
+9b375ffc220a5b8648ff62d1bf1c254e17194ee09e3ab32e2750f3d0ac066555  sv2-tp-1.0.2-x86_64-apple-darwin-unsigned.tar.gz
+3b6bf0ae26842868baf6dfd9828a7ac60459db9027791d31e076bb9b175282ed  sv2-tp-1.0.2-x86_64-linux-gnu-debug.tar.gz
+8061ef7fe63a385796d360e8d88825a0820e3667f2206a45da954352f4daef04  sv2-tp-1.0.2-x86_64-linux-gnu.tar.gz
